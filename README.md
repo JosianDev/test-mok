@@ -10,3 +10,17 @@ Este proyecto es una aplicación React que muestra una tabla de datos de usuario
 git clone https://github.com/tu-usuario/tu-proyecto.git
 cd test-mok
 ```
+
+### Instalar Dependencias
+
+```bash
+npm install
+```
+
+### Ejecutar la Aplicación
+
+```bash
+npm run dev
+```
+
+La aplicación estará disponible en http://localhost:5174/
