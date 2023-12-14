@@ -7,7 +7,7 @@ Este proyecto es una aplicación React que muestra una tabla de datos de usuario
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone https://github.com/JosianDev/test-mok.git
 cd test-mok
 ```
 
